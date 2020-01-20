@@ -1,5 +1,5 @@
 {
-    "name": "nesk/puphpeteer",
+    "name": "larasync/puphpeteer",
     "description": "A Puppeteer bridge for PHP, supporting the entire API.",
     "keywords": [
         "php",
@@ -16,6 +16,10 @@
         {
             "name": "Johann Pardanaud",
             "email": "pardanaud.j@gmail.com"
+        },
+        {
+            "name": "Aissa Aouli",
+            "email": "aissa.aouli@gmail.com"
         }
     ],
     "require": {
